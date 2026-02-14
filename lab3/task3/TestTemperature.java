@@ -1,3 +1,4 @@
+package task3;
 public class TestTemperature {
     public static void main(String[] args) {
         Temperature t1 = new Temperature(100, 'C');

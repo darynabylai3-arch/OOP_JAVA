@@ -1,3 +1,4 @@
+package task3;
 public class Temperature {
     private double value;
     private char scale;

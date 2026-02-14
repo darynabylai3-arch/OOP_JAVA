@@ -25,4 +25,8 @@ public class Student{
     public void incrementYear() {
         year++;
     }
+    @Override
+    public String toString() {
+        return name; 
+    }
 }

@@ -1,18 +1,19 @@
+package task4;
+
 public class Course {
     private String name;
     private String description;
     private int credits;
-    private String prerequisites;
+    private String prereq;
 
-    public Course(String name, String description, int credits, String prerequisites) {
+    public Course(String name, String description, int credits, String prereq){
         this.name = name;
         this.description = description;
         this.credits = credits;
-        this.prerequisites = prerequisites;
+        this.prereq = prereq;
     }
-
     @Override
-    public String toString() {
+    public String toString(){
         return name + " (" + credits + " credits)";
     }
 }
