@@ -1,0 +1,3 @@
+PS C:\JAVA\OOP_JAVA\lab3\task2\src> javac pr3/delivery/model/*.java pr3/delivery/service/*.java pr3/delivery/app/*.java
+>>
+PS C:\JAVA\OOP_JAVA\lab3\task2\src> java pr3.delivery.app.MainApp

@@ -1,3 +1,4 @@
+package quiz_1.task2;
 public class Student {
     public enum GradeLevel {
         FRESHMAN(1),

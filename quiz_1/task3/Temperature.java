@@ -1,4 +1,4 @@
-package task3;
+package quiz_1.task3;
 public class Temperature {
     private double value;
     private char scale;

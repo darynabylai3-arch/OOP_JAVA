@@ -1,3 +1,4 @@
+package quiz_1.task2;
 public class TestStudent {
     public static void main(String[] args) {
         Student s1 = new Student("Alice", Student.GradeLevel.FRESHMAN, 3.5);

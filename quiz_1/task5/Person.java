@@ -1,4 +1,4 @@
-package task5;
+package quiz_1.task5;
 
 public class Person {
     private Gender gender;

@@ -1,3 +1,4 @@
+package quiz_1.task1;
 import java.util.Scanner;
 
 class Data {

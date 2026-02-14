@@ -1,0 +1,4 @@
+PS C:\JAVA> javac -d bin OOP_JAVA\lab3\src\pr3\animal\model\*.java OOP_JAVA\lab3\src\pr3\animal\app\MainApp.java
+>>
+PS C:\JAVA> java -cp bin pr3.animal.app.MainApp
+
