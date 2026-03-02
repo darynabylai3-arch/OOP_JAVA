@@ -11,7 +11,7 @@ public class StarTriangle {
         StringBuilder s = new StringBuilder;
         
         for(int i=1;i<width;i++){
-            s.append("[*]".repeat(i)).append("\n")
+            s.append("[*]".repeat(i)).append("\n");
         }
         return s.toString();
     }
